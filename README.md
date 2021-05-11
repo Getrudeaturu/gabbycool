@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabbycool
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning html, css and javascriot
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on anything relating to what im currently learning
 - 📫 How to reach me @justsayingfactz on twitter 😊
 
